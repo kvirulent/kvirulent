@@ -5,5 +5,5 @@ js (novice)<br/>
 python (expert)<br/>
 html/css (expert)<br/>
 
-contact me: <br/>
+contact me -- business inquiries only: <br/>
 discord - _kv.
