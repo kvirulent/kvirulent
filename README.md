@@ -4,6 +4,8 @@
 js (novice)<br/>
 python (expert)<br/>
 html/css (expert)<br/>
+lua (expert)<br/>
+c# (novice)<br/>
 
 ### current projects (do not contact me via linked items):<br/>
 vault 7, developer (modeling) - roblox.com/groups/6188701<br/>
