@@ -12,10 +12,7 @@ node.js<br/>
 next.js<br/>
 django<br/>
 
-### current projects (do not contact me via linked items):<br/>
-vault 7, developer (modeling) - roblox.com/groups/6188701<br/>
-artificial lab, developer (modeling/programming) - roblox.com/groups/3836131<br/>
-<br/>
+
 <br/>
 contact me -- business inquiries only: <br/>
 discord - _kv.
