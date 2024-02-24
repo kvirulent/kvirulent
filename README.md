@@ -8,6 +8,7 @@ lua (expert)<br/>
 c# (novice)<br/>
 
 ### frameworks i am familiar with: <br/>
+react native <br/>
 node.js<br/>
 next.js<br/>
 django<br/>
